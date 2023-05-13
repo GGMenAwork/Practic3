@@ -1,0 +1,21 @@
+body{
+
+background-color: #674bb0; 
+background-image: url(bg-desktop.svg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.logo{}
+.foto{}
+.text1{
+    color:#fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.text2{color:#fff;
+font-family: 'Montserrat', sans-serif;
+}
+.register{}
+
+.social{}
+.social__icon{}
