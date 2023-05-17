@@ -108,9 +108,8 @@ bottom: 500px;
 @media (max-width: 1200px) {
     body{
         min-width: 510px;
-        
         background-color: #674bb0; 
-        background-image: url(bg-desktop.svg);
+        background-image: url(bg-mobile.svg);
         background-repeat: no-repeat;
         background-size: cover;}
    div.alltext{
@@ -144,19 +143,22 @@ div.text2{
         bottom: 0px;
     }
     div.registermobile{
-        width: 50px;
-        
+        padding: 0px 1px;
         position: relative;
-        right:910px;
+        right:940px;
         top: 450px;
     }
     div.socialmobile{
-        
-        
         position: relative;
         right: 1470px;
         top: 170px;}
-   
+        i.fa-facebook-f{
+            font-size: 15px;
+        }
+        i.fa-instagram{
+            font-size: 15px;}
+        i.fa-twitter{
+            font-size: 15px;}
    }
 
     
